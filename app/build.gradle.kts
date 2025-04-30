@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "jp_ac_thers_s_6044_86p_fn.myapplication"
-        minSdk = 24
+        minSdk = 35
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
